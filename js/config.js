@@ -14,7 +14,7 @@ class MiNav extends HTMLElement {
       <a href="dispositivo.html" style="color: #000;">
         <span
           class="material-icons">
-          home_mini
+          adb
         </span>
         Dispositivo
       </a>
