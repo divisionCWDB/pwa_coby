@@ -21,7 +21,7 @@ class MiNav extends HTMLElement {
       <a href="historial.html" style="color: #000;">
         <span
           class="material-icons">
-          home_mini
+          reorder
         </span>
         Historial
       </a>
