@@ -1,0 +1,24 @@
+html {
+    --colContenido: black;
+    --colContenidoFondo: #78b1fa;
+    --colPrimario: #73e8ff ;
+    --colPrimarioFondo:#ff7373  ;
+    --colActive: #4646462c;
+    --colCampoSinFoco: gray;
+    --colCampoFoco: #01579B;
+    --colError: #b00020;
+    --colCampoFondo: #29b6f6 ;
+    --colCampoFondoHover: #000000;
+    --colCampoFondoFocus: #E0E0E0;
+    --colCheckOn: #0277BD;
+    --colCheckFondo: #BDBDBD;
+    /* Los 2 primeros fonts son para
+     * apple y "Roboto" es para
+     * Android. */
+    --fontFamily: sans-serif;
+    color: var(--colContenido);
+    font-family: var(--fontFamily);
+    background-color:
+      var(--colContenidoFondo);
+  }
+  
