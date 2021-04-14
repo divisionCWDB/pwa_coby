@@ -31,7 +31,7 @@ const ctSondea = document.
 const dispositivoId = prompt(
   "Identificador del Dispositivo",
   "iot1");
-const ID_PROYECTO = "controlador-iot";
+const ID_PROYECTO = "pwa-coby";
 const URL_SALIDA =
   urlDeDocumento(ID_PROYECTO,
     "Salida", dispositivoId);
