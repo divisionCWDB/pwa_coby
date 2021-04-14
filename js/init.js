@@ -1,10 +1,10 @@
 // @ts-ignore
 firebase.initializeApp({
-  apiKey: "AIzaSyBTHnD-RQI-sgu9XqH9XyNZfi0e5SX96ng",
-  authDomain: "controlador-iot.firebaseapp.com",
-  projectId: "controlador-iot",
-  storageBucket: "controlador-iot.appspot.com",
-  messagingSenderId: "459085222631",
-  appId: "1:459085222631:web:2a11534f1662db567f8842",
-  measurementId: "G-0VZ62QY50N"
+   apiKey: "AIzaSyBNYdBXbTk7Q6jv1G2SyePZt2IhxATGinI",
+    authDomain: "pwa-coby.firebaseapp.com",
+    projectId: "pwa-coby",
+    storageBucket: "pwa-coby.appspot.com",
+    messagingSenderId: "824413379959",
+    appId: "1:824413379959:web:87efcbc7f150293ec65572",
+    measurementId: "G-KJF0H1P1E8"
 });
